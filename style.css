@@ -1,41 +1,17 @@
-.header {
-  background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg);
-  background-color: #666;
-  background-size: cover;
-  background-repeat: no-repeat;
-  
-  display: flex;
-  justify-content: center;
-  
-  width: 100%;
-  
-  position: reletive;
-  
-  z-index: -1;
-}
-
-.header::after {
-  content: "";
-  background-color: rgba(0, 0, 0, .6);
-  width: 100%;
-  min-height: 450px;
-  position: absolute;
-}
-
 .header__container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 1660px;
+  max-width: 1660px;
   margin: 0 auto;
-  padding: 28px 100px 0 100px;
+  padding: 28px 0 0;
   z-index: 1;
 }
 
 .header__wrap {
   display: flex;
   justify-content: space-between;
-  width: 1185px;
+  max-width: 1170px;
 }
 
 .header__logo {
@@ -60,8 +36,10 @@
 }
 
 .header__link {
-  font-family: "open-sans-regular";
-  font-size: 13px;
+  font-family: "open-sans";
+  font-weight: 400;
+  font-size: 0.8rem;
+  line-height: 2.25rem;
   text-transform: uppercase;
   text-decoration: none;
   color: #fff;
