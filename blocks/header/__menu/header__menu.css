@@ -1,0 +1,12 @@
+.header__menu {
+    justify-self: end;
+
+    padding-top: 31px;
+    margin: 0;
+}
+
+@media (max-width: 1199px) {
+    .header__menu {
+            display: none;
+        }
+}
