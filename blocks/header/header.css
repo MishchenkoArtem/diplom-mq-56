@@ -1,15 +1,15 @@
 .header {
-    background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg);
+    background-image: url(../../images/banner-bg.jpg);
     background-color: #666;
     background-size: cover;
     background-repeat: no-repeat;
 
-    display: flex;
-    justify-content: center;
-
     width: 100%;
     position: reletive;
     z-index: -1;
+
+    display: flex;
+    justify-content: center;
 }
 
 .header::after {
