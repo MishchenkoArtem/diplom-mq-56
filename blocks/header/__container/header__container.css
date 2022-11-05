@@ -1,0 +1,17 @@
+.header__container {
+    max-width: 1200px;
+    padding: 0 15px;
+
+    box-sizing: border-box;
+    z-index: 1;
+
+    display: grid;
+    grid-template-columns: 185px 985px;
+}
+
+@media (min-width: 641px) and (max-width: 1199px) {
+    .header__container {
+            max-width: 700px;
+            padding: 0 35px;
+        }
+}
