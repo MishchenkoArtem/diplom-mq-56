@@ -12,15 +12,26 @@
 
     max-width: 699px;
     margin: 0 auto;
-    padding: 96px 0 128px;
+    padding: 108px 0 124px;
 
-    grid-column: span 2;
+    grid-area: title;
 }
 
-@media (min-width: 641px) and (max-width: 1199px) {
+@media (min-width: 641px) and (max-width: 1200px) {
     .header__title {
         font-size: 2.5rem;
         line-height: 3.4rem;
-        max-width: 610px;
+        max-width: 650px;
+        padding-top: 86px;
+    }
+}
+
+@media (max-width: 640px) {
+    .header__title {
+        font-size: 1.6rem;
+        line-height: 2.25rem;
+        max-width: 280px;
+        padding-top: 25px;
+        padding-bottom: 209px;
     }
 }
