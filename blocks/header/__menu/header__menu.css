@@ -1,12 +1,13 @@
 .header__menu {
+    grid-area: menu;
     justify-self: end;
 
     padding-top: 31px;
     margin: 0;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1200) {
     .header__menu {
-            display: none;
-        }
+        display: none;
+    }
 }
