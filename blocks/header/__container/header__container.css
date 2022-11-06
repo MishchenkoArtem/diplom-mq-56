@@ -14,7 +14,7 @@
         "title title";
 }
 
-@media (min-width: 641px) and (max-width: 1199px) {
+@media (min-width: 641px) and (max-width: 1200px) {
     .header__container {
             max-width: 768px;
             padding: 0 35px;
