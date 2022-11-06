@@ -1,10 +1,31 @@
 .header__logo {
-    padding-top: 31px;
+    background-image: url(../../../images/svg/noemi-logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
     max-width: 180px;
+
+    grid-area: logo;
+
+    margin-top: 27px;
 }
 
-@media (min-width: 641px) and (max-width: 1199px) {
+@media (min-width: 641px) and (max-width: 1200) {
     .header__logo {
-            padding-top: 41px;
+            min-width: 156px;
+            min-height: 40px;
+
+            margin-top: 42px;
         }
+}
+
+@media (max-width: 640px) {
+    .header__logo {
+        justify-self: center;
+
+        min-width: 272px;
+        min-height: 70px;
+    
+        margin-top: 162px;
+    }
 }
