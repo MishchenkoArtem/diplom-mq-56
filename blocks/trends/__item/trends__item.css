@@ -1,0 +1,10 @@
+.trends__item {
+    font-size: 0.9rem;
+    line-height: 2.5rem;
+    
+    margin-right: 20px;
+}
+
+.trends__item:last-of-type {
+    margin-right: 0;
+}
