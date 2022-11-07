@@ -1,37 +1,37 @@
 .header__title {
-    font-family: "open-sans";
-    font-size: 2.8rem;
-    line-height: 4.7rem;
+  font-family: "open-sans";
+  font-size: 2.8rem;
+  line-height: 4.7rem;
 
-    text-transform: uppercase;
-    text-align: center;
-    color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
 
-    position: relative;
-    z-index: 1;
+  position: relative;
+  z-index: 1;
 
-    max-width: 699px;
-    margin: 0 auto;
-    padding: 108px 0 124px;
+  max-width: 699px;
+  margin: 0 auto;
+  padding: 108px 0 124px;
 
-    grid-area: title;
+  grid-area: title;
 }
 
 @media (min-width: 641px) and (max-width: 1200px) {
-    .header__title {
-        font-size: 2.5rem;
-        line-height: 3.4rem;
-        max-width: 650px;
-        padding-top: 86px;
-    }
+  .header__title {
+    font-size: 2.5rem;
+    line-height: 3.4rem;
+    max-width: 650px;
+    padding-top: 86px;
+  }
 }
 
 @media (max-width: 640px) {
-    .header__title {
-        font-size: 1.6rem;
-        line-height: 2.25rem;
-        max-width: 280px;
-        padding-top: 25px;
-        padding-bottom: 209px;
-    }
+  .header__title {
+    font-size: 1.6rem;
+    line-height: 2.25rem;
+    max-width: 280px;
+    padding-top: 25px;
+    padding-bottom: 209px;
+  }
 }
