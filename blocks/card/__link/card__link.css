@@ -1,0 +1,12 @@
+.card__link {
+  font-size: 0.9rem;
+  line-height: 2.5rem;
+
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #b59f5b;
+}
+
+.card__link:hover {
+  text-decoration: underline;
+}
