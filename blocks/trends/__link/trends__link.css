@@ -1,0 +1,12 @@
+.trends__link {
+    color: #b59f5b;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    position: relative;
+    z-index: 1;
+}
+
+.trends__link:hover {
+    text-decoration: underline;
+}
