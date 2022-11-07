@@ -11,3 +11,13 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__burger/header__burger.css);
+
+@import url(../blocks/trends/trends.css);
+@import url(../blocks/trends/__title/trends__title.css);
+@import url(../blocks/trends/__container/trends__container.css);
+@import url(../blocks/trends/__wrapper/trends__wrapper.css);
+@import url(../blocks/trends/__list/trends__list.css);
+@import url(../blocks/trends/__item/trends__item.css);
+@import url(../blocks/trends/__link/trends__link.css);
+@import url(../blocks/trends/__link/_color_white/trends__link_color_white.css);
+@import url(../blocks/trends/__subtitle/trends__subtitle.css);
