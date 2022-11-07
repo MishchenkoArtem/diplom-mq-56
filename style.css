@@ -1,44 +1,15 @@
 .aside {
-  width: 272px;
-  margin: 0 0 0 120px;
+  max-width: 272px;
+  padding-left: 120px;
 }
 
-.posts {
-  
-}
 
-.posts__heading {
-  font-family: "open-sans-bold";
-  font-size: 14px;
-  line-height: 30px;
-  text-transform: uppercase;
-  text-align: center;
-  width: 120px;
-  margin: 64px auto 0;
-  padding-bottom: 44px;
-  position: relative;
-}
 
-.posts__heading::before {
-  content: "";
-  background-color: #e1d9bd;
-  width: 66px;
-  height: 3px;
-  position: absolute;
-  top: 42px;
-  left: 28px;
-}
 
-.posts__container {
-  display: flex;
-  margin-top: 10px;
-}
 
-.posts__image {
-  width: 70px;
-  height: 70px;
-  padding-top: 12px;
-}
+
+
+
 
 .posts__date {
   font-family: "open-sans-regular";
