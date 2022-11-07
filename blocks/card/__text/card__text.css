@@ -1,0 +1,11 @@
+.card__text {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4rem;
+  margin: 0;
+  padding: 25px 0 0;
+}
+
+.card__text:first-of-type {
+  padding: 55px 0 0;
+}
