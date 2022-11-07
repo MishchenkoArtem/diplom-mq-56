@@ -24,3 +24,5 @@
 @import url(../blocks/card/__container-info/card__container-info.css);
 @import url(../blocks/card/__data/card__data.css);
 @import url(../blocks/card/__author-link/card__author-link.css);
+@import url(../blocks/card/__author/card__author.css);
+@import url(../blocks/card/__text/card__text.css);
