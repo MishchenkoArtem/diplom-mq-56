@@ -8,6 +8,8 @@
     min-height: 320px;
 
     position: relative;
+    margin-top: 33px;
+    margin-right: 4px;
 
     box-sizing: border-box;
 
@@ -24,4 +26,8 @@
     background-color: rgba(0, 0, 0, .6);
     min-width: 410px;
     min-height: 320px;
+}
+
+.trends__container:last-of-type {
+    margin-right: 0;
 }
