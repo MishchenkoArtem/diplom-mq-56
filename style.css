@@ -1,112 +1,27 @@
-.main {
-  width: 100%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-}
 
-.card {
-  display: flex;
-  width: 777px;
-  margin-top: 60px;
-}
 
-.card:first-child {
-  margin-top: 65px;
-}
 
-.card:last-child {
-  margin-bottom: 65px;
-}
 
-.card__image {
-  width: 380px;
-  height: 294px;
-  background-color: #eff6f1;
-}
 
-.card__container {
-  width: 367px;
-  margin: 0 0 0 30px;
-}
 
-.card__list {
-  display: flex;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 
-.card__list-item {
-  max-width: 72px;
-  margin: 0 20px 0 0;
-}
-
-.card__link {
-  font-family: "open-sans-bold";
-  font-size: 14px;
-  line-height: 40px;
-  color: #b59f5b;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-
-.card__link:hover {
-  text-decoration: underline;
-}
-
-.card__title {
-  font-family: "open-sans-bold";
-  font-size: 20px;
-  line-height: 24px;
-  text-transform: uppercase;
-  margin: 0;
-}
-
-.card__title-link {
-  text-decoration: none;
-  color: #000;
-  padding: 15px 0 35px 0;
-}
-
-.card__title-link:hover {
-  color: #b59f5b;
-}
-
-.card__container-info {
-  display: flex;
-}
-
-.card__data {
-  font-family: "open-sans-regular";
-  font-size: 12px;
-  line-height: 40px;
-  color: #888;
-  margin: 0 14px 0 0;
-}
-
-.card__author-link {
-  text-decoration: none;
-  color: #000;
-}
 
 .card__author {
-  font-family: "open-sans-bold";
-  font-size: 12px;
-  line-height: 40px;
+  font-size: 0.75rem;
+  line-height: 2.5rem;
   margin: 0;
 }
 
 .card__text {
-  font-family: "open-sans-regular";
-  font-size: 15px;
-  line-height: 22px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4rem;
   margin: 0;
-  padding: 25px 0 0 0;
+  padding: 25px 0 0;
 }
 
 .card__text:first-of-type {
-  padding: 55px 0 0 0;
+  padding: 55px 0 0;
 }
 
 .aside {
@@ -115,7 +30,6 @@
 }
 
 .posts {
-  
 }
 
 .posts__heading {
@@ -148,7 +62,7 @@
 .posts__image {
   width: 70px;
   height: 70px;
-  padding-top: 12px
+  padding-top: 12px;
 }
 
 .posts__date {
@@ -278,7 +192,6 @@
 }
 
 .tags {
-  
 }
 
 .tags__heading {
@@ -402,7 +315,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  
+
   width: 1170px;
   height: 83px;
   background: #f4f7f6;
