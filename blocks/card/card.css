@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  max-width: 777px;
+  padding-top: 60px;
+}
+
+.card:first-child {
+  padding-top: 65px;
+}
+
+.card:last-child {
+  padding-bottom: 65px;
+}
