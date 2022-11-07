@@ -1,0 +1,8 @@
+.trends__link_color_white {
+    color: #fff;
+}
+
+.trends__link_color_white:hover {
+    color: #b59f5b;
+    text-decoration: none;
+}
