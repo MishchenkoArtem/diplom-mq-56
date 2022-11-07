@@ -1,31 +1,31 @@
 .header__logo {
-    background-image: url(../../../images/svg/noemi-logo.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
+  background-image: url(../../../images/svg/noemi-logo.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
 
-    max-width: 180px;
+  max-width: 180px;
 
-    grid-area: logo;
+  grid-area: logo;
 
-    margin-top: 27px;
+  margin-top: 27px;
 }
 
 @media (min-width: 641px) and (max-width: 1200px) {
-    .header__logo {
-            min-width: 156px;
-            min-height: 40px;
+  .header__logo {
+    min-width: 156px;
+    min-height: 40px;
 
-            margin-top: 42px;
-        }
+    margin-top: 42px;
+  }
 }
 
 @media (max-width: 640px) {
-    .header__logo {
-        justify-self: center;
+  .header__logo {
+    justify-self: center;
 
-        min-width: 272px;
-        min-height: 70px;
-    
-        margin-top: 162px;
-    }
+    min-width: 272px;
+    min-height: 70px;
+
+    margin-top: 162px;
+  }
 }
