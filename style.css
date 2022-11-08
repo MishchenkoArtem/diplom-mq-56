@@ -3,67 +3,8 @@
   padding-left: 120px;
 }
 
-.mailing-list__heading {
-  font-family: "open-sans-bold";
-  font-size: 14px;
-  line-height: 30px;
-  text-transform: uppercase;
-  text-align: center;
-  width: 107px;
-  margin: 61px auto 0;
-  padding-bottom: 40px;
-  position: relative;
-}
 
-.mailing-list__heading::before {
-  content: "";
-  background-color: #e1d9bd;
-  width: 66px;
-  height: 3px;
-  position: absolute;
-  top: 42px;
-  left: 20px;
-}
 
-.mailing-list__fieldset {
-  margin: 0;
-  padding: 0;
-  border: none;
-}
-
-.mailing-list__input-subscribe {
-  width: 270px;
-  height: 48px;
-  background: #f4f7f6;
-  border: none;
-  padding: 0 0 0 18px;
-  margin: 23px 0 0 0;
-  box-sizing: border-box;
-}
-
-.mailing-list__input-subscribe:focus {
-  outline: none;
-  border: solid 1px #b59f5b;
-}
-
-.mailing-list__button {
-  background-color: #b59f5b;
-  border: none;
-  width: 270px;
-  height: 48px;
-  cursor: pointer;
-  margin: 17px 0 0 0;
-  padding: 0;
-  font-family: "open-sans-bold";
-  font-size: 14px;
-  line-height: 40px;
-  text-transform: uppercase;
-  color: #fff;
-}
-
-.mailing-list__button:hover {
-  background-color: #323232;
-}
 
 .tags {
 }

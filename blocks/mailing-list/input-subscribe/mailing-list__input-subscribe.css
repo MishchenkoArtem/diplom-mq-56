@@ -1,0 +1,14 @@
+.mailing-list__input-subscribe {
+  width: 270px;
+  height: 48px;
+  background: #f4f7f6;
+  border: none;
+  padding: 0 0 0 18px;
+  margin: 23px 0 0 0;
+  box-sizing: border-box;
+}
+
+.mailing-list__input-subscribe:focus {
+  outline: none;
+  border: solid 1px #b59f5b;
+}

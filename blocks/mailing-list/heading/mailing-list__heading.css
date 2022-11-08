@@ -1,0 +1,21 @@
+.mailing-list__heading {
+  font-family: "open-sans-bold";
+  font-size: 14px;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 107px;
+  margin: 61px auto 0;
+  padding-bottom: 40px;
+  position: relative;
+}
+
+.mailing-list__heading::before {
+  content: "";
+  background-color: #e1d9bd;
+  width: 66px;
+  height: 3px;
+  position: absolute;
+  top: 42px;
+  left: 20px;
+}

@@ -37,3 +37,8 @@
 @import url(../blocks/posts/fieldset/posts__fieldset.css);
 @import url(../blocks/posts/input-search/posts__input-search.css);
 @import url(../blocks/posts/button/posts__button.css);
+
+@import url(../blocks/mailing-list/heading/mailing-list__heading.css);
+@import url(../blocks/mailing-list/fieldset/mailing-list__fieldset.css);
+@import url(../blocks/mailing-list/input-subscribe/mailing-list__input-subscribe.css);
+@import url(../blocks/mailing-list/button/mailing-list__button.css);
