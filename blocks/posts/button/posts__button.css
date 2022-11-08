@@ -1,0 +1,17 @@
+.posts__button {
+  background-color: #b59f5b;
+  background-image: url(../../../images/svg/search.svg);
+  background-size: 18px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+  margin: 50px 0 0 0;
+  padding: 0;
+}
+
+.posts__button:hover {
+  background-color: #323232;
+}

@@ -1,0 +1,14 @@
+.posts__input-search {
+  width: 222px;
+  height: 48px;
+  background: #f4f7f6;
+  border: none;
+  padding: 0 0 0 18px;
+  margin: 50px 0 0 0;
+  box-sizing: border-box;
+}
+
+.posts__input-search:focus {
+  outline: none;
+  border: solid 1px #b59f5b;
+}
