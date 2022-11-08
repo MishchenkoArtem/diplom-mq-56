@@ -14,18 +14,18 @@
 @import url(../blocks/header/burger/header__burger.css);
 
 @import url(../blocks/card/card.css);
-@import url(../blocks/card/__image/card__image.css);
-@import url(../blocks/card/__container/card__container.css);
-@import url(../blocks/card/__list/card__list.css);
-@import url(../blocks/card/__item/card__item.css);
-@import url(../blocks/card/__link/card__link.css);
-@import url(../blocks/card/__title/card__title.css);
-@import url(../blocks/card/__title-link/card__title-link.css);
-@import url(../blocks/card/__container-info/card__container-info.css);
-@import url(../blocks/card/__data/card__data.css);
-@import url(../blocks/card/__author-link/card__author-link.css);
-@import url(../blocks/card/__author/card__author.css);
-@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/image/card__image.css);
+@import url(../blocks/card/container/card__container.css);
+@import url(../blocks/card/list/card__list.css);
+@import url(../blocks/card/item/card__item.css);
+@import url(../blocks/card/link/card__link.css);
+@import url(../blocks/card/title/card__title.css);
+@import url(../blocks/card/title-link/card__title-link.css);
+@import url(../blocks/card/container-info/card__container-info.css);
+@import url(../blocks/card/data/card__data.css);
+@import url(../blocks/card/author-link/card__author-link.css);
+@import url(../blocks/card/author/card__author.css);
+@import url(../blocks/card/text/card__text.css);
 
 @import url(../blocks/posts/posts.css);
 @import url(../blocks/posts/__heading/posts__heading.css);
