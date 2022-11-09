@@ -1,3 +1,9 @@
 .card__container-info {
   display: flex;
 }
+
+@media (min-width: 641px) and (max-width: 1200px) {
+  .card__container-info {
+    padding-top: 13px;
+  }
+}
