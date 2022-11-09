@@ -9,3 +9,10 @@
 .card__text:first-of-type {
   padding: 55px 0 0;
 }
+
+
+@media (min-width: 641px) and (max-width: 1200px) {
+  .card__text:first-of-type {
+    padding-top: 25px;
+  }
+}
