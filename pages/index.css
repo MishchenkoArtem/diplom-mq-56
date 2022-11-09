@@ -59,9 +59,14 @@
 @import url(../blocks/topics/link/topics__link.css);
 @import url(../blocks/topics/counter/topics__counter.css);
 
+@import url(../blocks/visually-hidden/visually-hidden.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/list/footer__list.css);
+@import url(../blocks/footer/item/footer__item.css);
 @import url(../blocks/footer/link/footer__link.css);
-@import url(../blocks/footer/social-icon/footer__social-icon.css);
+@import url(../blocks/footer/link/_img_dribbble/footer__link_img_dribbble.css);
+@import url(../blocks/footer/link/_img_pinterest/footer__link_img_pinterest.css);
+@import url(../blocks/footer/link/img_tumblr/footer__link_img_tumblr.css);
 @import url(../blocks/footer/copyright-link/footer__copyright-link.css);
 @import url(../blocks/footer/copyright/footer__copyright.css);
