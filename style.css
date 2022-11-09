@@ -3,65 +3,6 @@
   padding-left: 120px;
 }
 
-.topics__heading {
-  font-size: 0.9rem;
-  line-height: 1.9rem;
-  text-transform: uppercase;
-  text-align: center;
-  max-width: 107px;
-  margin: 61px auto 0;
-  padding-bottom: 44px;
-  position: relative;
-}
-
-.topics__heading::before {
-  content: "";
-  background-color: #e1d9bd;
-  width: 66px;
-  height: 3px;
-  position: absolute;
-  top: 42px;
-  left: 22px;
-}
-
-.topics__list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.topics__item {
-  width: 272px;
-  border-bottom: solid #eee 1px;
-  margin: 0;
-  padding: 0;
-}
-
-.topics__link {
-  text-decoration: none;
-  color: #000;
-  margin: 0;
-  padding: 0;
-  font-family: "open-sans-bold";
-  font-size: 14px;
-  line-height: 50px;
-}
-
-.topics__link:hover {
-  color: #b59f5b;
-}
-
-.topics__counter {
-  margin: 0;
-  padding: 0;
-  font-family: "open-sans-bold";
-  font-size: 14px;
-  line-height: 36.4px;
-  color: #b59f5b;
-  position: relative;
-  bottom: 5px;
-}
-
 .footer {
   display: flex;
   justify-content: center;
