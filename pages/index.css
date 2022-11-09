@@ -48,3 +48,10 @@
 @import url(../blocks/tags/heading/tags__heading.css);
 @import url(../blocks/tags/list/tags__list.css);
 @import url(../blocks/tags/link/tags__link.css);
+
+@import url(../blocks/topics/topics.css);
+@import url(../blocks/topics/heading/topics__heading.css);
+@import url(../blocks/topics/list/topics__list.css);
+@import url(../blocks/topics/item/topics__item.css);
+@import url(../blocks/topics/link/topics__link.css);
+@import url(../blocks/topics/counter/topics__counter.css);
