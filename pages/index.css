@@ -55,3 +55,6 @@
 @import url(../blocks/topics/item/topics__item.css);
 @import url(../blocks/topics/link/topics__link.css);
 @import url(../blocks/topics/counter/topics__counter.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/list/footer__list.css);
