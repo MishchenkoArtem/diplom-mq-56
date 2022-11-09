@@ -11,8 +11,14 @@
 }
 
 
-@media (min-width: 641px) and (max-width: 1200px) {
+@media (min-width: 641px) {
   .card__text:first-of-type {
     padding-top: 25px;
+  }
+}
+
+@media (max-width: 640px) {
+  .card__text {
+    max-width: 330px;
   }
 }
