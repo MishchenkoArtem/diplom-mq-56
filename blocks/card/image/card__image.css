@@ -3,3 +3,9 @@
   max-height: 294px;
   background-color: #eff6f1;
 }
+
+@media (max-width: 640px) {
+  .card__image {
+    max-width: 330px;
+  }
+}
