@@ -1,0 +1,21 @@
+.topics__heading {
+  font-size: 0.9rem;
+  line-height: 1.9rem;
+  text-transform: uppercase;
+  text-align: center;
+  max-width: 107px;
+  margin: 61px auto 0;
+  padding-bottom: 44px;
+  position: relative;
+}
+
+.topics__heading::before {
+  content: "";
+  background-color: #e1d9bd;
+  max-width: 66px;
+  width: 100%;
+  min-height: 3px;
+  position: absolute;
+  top: 42px;
+  left: 22px;
+}
