@@ -11,8 +11,14 @@
   background: #f4f7f6;
 }
 
-@media (min-width: 641px) and (max-width: 1200px) {
+@media (min-width: 641px) {
   .footer__list {
     min-width: 698px;
+  }
+}
+
+@media (max-width: 640px) {
+  .footer__list {
+    min-width: 330px;
   }
 }
