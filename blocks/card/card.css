@@ -11,3 +11,9 @@
 .card:last-child {
   padding-bottom: 65px;
 }
+
+@media (min-width: 641px) and (max-width: 1200px) {
+  .card {
+    flex-direction: column;
+  }
+}
