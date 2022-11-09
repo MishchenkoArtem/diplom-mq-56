@@ -11,7 +11,7 @@
   background: #f4f7f6;
 }
 
-@media (min-width: 641px) {
+@media (min-width: 641px) and (max-width: 1200px) {
   .footer__list {
     min-width: 698px;
   }
