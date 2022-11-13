@@ -19,3 +19,12 @@
   top: 42px;
   left: 22px;
 }
+
+@media (max-width: 640px) {
+  .topics__heading {
+    font-size: 1rem;
+    line-height: 1.8rem;
+    margin-top: 42px;
+    padding-bottom: 40px;
+  }
+}
