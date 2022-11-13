@@ -4,9 +4,10 @@
   font-size: 0.75rem;
   line-height: 2.5rem;
   text-transform: uppercase;
-  border: solid 3px #ededed;
-  padding: 7px 14px;
-  margin: 0 5px 6px 0;
+  border: solid 2px #ededed;
+  padding: 7px 13px;
+  margin: 0 5px 5px 0;
+  box-sizing: border-box;
 }
 
 .tags__link:hover {
