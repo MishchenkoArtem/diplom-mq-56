@@ -12,3 +12,10 @@
   outline: none;
   border: solid 1px #b59f5b;
 }
+
+@media (max-width: 640px) {
+  .posts__input-search {
+    width: 284px;
+    margin-top: 60px;
+  }
+}
