@@ -6,3 +6,9 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+@media (max-width: 640px) {
+  .tags__list {
+    max-width: 330px;
+  }
+}
