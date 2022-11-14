@@ -1,7 +1,13 @@
 .posts__date {
   font-weight: 400;
   font-size: 0.75rem;
-  line-height: 1.7rem;
+  line-height: 2.5rem;
   color: #878787;
   margin: 0 0 0 18px;
+}
+
+@media (max-width: 640px) {
+  .posts__date {
+    margin-left: 20px;
+  }
 }

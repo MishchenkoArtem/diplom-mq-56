@@ -4,3 +4,9 @@
   text-transform: uppercase;
   margin: 0 0 0 18px;
 }
+
+@media (max-width: 640px) {
+  .posts__title {
+    margin-left: 20px;
+  }
+}
