@@ -1,6 +1,8 @@
 .footer__link {
   display: block;
+
+  text-decoration: none;
+
   width: 20px;
   height: 20px;
-  text-decoration: none;
 }
