@@ -1,24 +1,22 @@
 .footer__list {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
-  min-width: 1170px;
-  min-height: 83px;
-  background: #f4f7f6;
+    width: 100%;
 }
 
 @media (min-width: 641px) and (max-width: 1200px) {
-  .footer__list {
-    min-width: 698px;
-  }
+    .footer__list {
+        max-width: 698px;
+    }
 }
 
 @media (max-width: 640px) {
-  .footer__list {
-    min-width: 330px;
-  }
+    .footer__list {
+        min-width: 330px;
+    }
 }
