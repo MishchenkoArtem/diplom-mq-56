@@ -3,6 +3,14 @@
   justify-content: center;
 }
 
+@media (min-width: 641px) and (max-width: 1200px) {
+  .main {
+    max-width: 768px;
+    padding: 0 35px;
+    margin: 0 auto;
+  }
+}
+
 @media (max-width: 640px) {
   .main {
     flex-direction: column;
