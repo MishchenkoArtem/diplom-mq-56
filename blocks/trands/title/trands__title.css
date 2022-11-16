@@ -27,3 +27,14 @@
     top: 40px;
     left: 60px;
 }
+
+@media (min-width: 641px) and (max-width: 1200px) {
+    .trands__title {
+        font-size: 1.12rem;
+        padding-bottom: 36px;
+    }
+
+    .trands__title::before {
+        left: 49px;
+    }
+}
