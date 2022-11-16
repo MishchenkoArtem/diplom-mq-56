@@ -18,6 +18,7 @@
 @import url(../blocks/header/burger/header__burger.css);
 
 @import url(../blocks/trands/trands.css);
+@import url(../blocks/trands/image/trands__image.css);
 @import url(../blocks/trands/container/trands__container.css);
 @import url(../blocks/trands/box/trands__box.css);
 @import url(../blocks/trands/list/trands__list.css);
