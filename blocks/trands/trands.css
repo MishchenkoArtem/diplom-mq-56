@@ -8,3 +8,9 @@
 
     padding-top: 58px;
 }
+
+@media (min-width: 641px) and (max-width: 1200px) {
+    .trands {
+        padding-top: 50px;
+    }
+}
