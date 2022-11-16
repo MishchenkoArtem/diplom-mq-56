@@ -1,0 +1,19 @@
+.trands__box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    max-width: 370px;
+    width: 100%;
+
+    padding-top: 39px;
+    padding-left: 33px;
+    padding-bottom: 32px;
+
+    box-sizing: border-box;
+
+    border: 3px solid #6f6239;
+
+    position: relative;
+    z-index: 1;
+}
