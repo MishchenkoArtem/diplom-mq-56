@@ -14,5 +14,6 @@
 @media (max-width: 640px) {
   .card__image {
     max-width: 330px;
+    width: 100%;
   }
 }
