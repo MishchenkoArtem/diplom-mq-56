@@ -1,0 +1,12 @@
+.trands__link {
+    font-size: 0.9rem;
+    line-height: 2.5rem;
+
+    color: #b59f5b;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.trands__link:hover {
+    text-decoration: underline;
+}
