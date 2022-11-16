@@ -16,5 +16,6 @@
   .aside {
     max-width: 330px;
     padding: 0 15px;
+    margin: 0 auto;
   }
 }
