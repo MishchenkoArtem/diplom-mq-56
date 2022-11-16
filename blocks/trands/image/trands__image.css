@@ -1,0 +1,15 @@
+.trands__image {
+    max-width: 410px;
+    width: 100%;
+    min-height: 320px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    object-fit: cover;
+
+    z-index: 2;
+}
