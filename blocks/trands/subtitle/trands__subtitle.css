@@ -12,3 +12,10 @@
 .trands__subtitle:hover {
     color: #b59f5b;
 }
+
+@media (min-width: 641px) and (max-width: 1200px) {
+    .trands__subtitle {
+        max-width: 247px;
+        font-size: 1.1rem;
+    }
+}
