@@ -1,0 +1,7 @@
+.trands__list-item {
+    margin-right: 20px;
+}
+
+.trands__list-item:last-of-type {
+    margin-right: 0;
+}
