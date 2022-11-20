@@ -2,3 +2,9 @@
     display: flex;
     justify-content: center;
 }
+
+@media (max-width: 640px) {
+    .main__wrapper {
+        flex-direction: column;
+    }
+}
