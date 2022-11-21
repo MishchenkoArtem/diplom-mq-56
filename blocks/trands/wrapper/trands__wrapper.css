@@ -1,11 +1,11 @@
 .trands__wrapper {
     display: flex;
-    justify-content: center;
 }
 
 @media (min-width: 641px) and (max-width: 1200px) {
     .trands__wrapper {
         flex-wrap: wrap;
+        justify-content: center;
     }
 }
 
