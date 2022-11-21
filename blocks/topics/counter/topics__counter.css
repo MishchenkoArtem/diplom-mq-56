@@ -1,9 +1,12 @@
 .topics__counter {
-  margin: 0;
-  padding: 0;
-  font-size: 0.9rem;
-  line-height: 2.25rem;
-  color: #b59f5b;
-  position: relative;
-  bottom: 5px;
+    font-size: 0.9rem;
+    line-height: 2.25rem;
+  
+    margin: 0;
+    padding: 0;
+  
+    color: #b59f5b;
+  
+    position: relative;
+    bottom: 5px;
 }
