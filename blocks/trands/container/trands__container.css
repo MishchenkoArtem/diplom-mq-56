@@ -37,7 +37,7 @@
 
 @media (min-width: 641px) and (max-width: 1200px) {
     .trands__container {
-        width: calc(50% - 8px);
+        width: calc(50% - 2px);
     }
 
     .trands__container:nth-of-type(even) {
