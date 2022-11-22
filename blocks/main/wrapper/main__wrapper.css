@@ -1,6 +1,15 @@
 .main__wrapper {
     display: flex;
     justify-content: center;
+
+    box-sizing: border-box;
+}
+
+@media (min-width: 641px) and (max-width: 1200px) {
+    .main__wrapper {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
 }
 
 @media (max-width: 640px) {
