@@ -11,7 +11,7 @@
   }
 }
 
-@media (max-width: 641px) {
+@media (max-width: 640px) {
   .aside {
     max-width: 330px;
     padding-left: 0;
