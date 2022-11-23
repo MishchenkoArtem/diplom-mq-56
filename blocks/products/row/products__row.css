@@ -2,3 +2,9 @@
     display: flex;
     flex-direction: row;
 }
+
+@media (min-width: 641px) and (max-width: 1200px) {
+    .products__row {
+        flex-wrap: wrap;
+    }
+}
