@@ -1,0 +1,8 @@
+.products__text-link {
+    text-decoration: none;
+    color: #b59f5b;
+}
+
+.products__text-link:hover {
+    text-decoration: underline;
+}
