@@ -1,0 +1,13 @@
+.products__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    max-width: 347px;
+
+    margin-right: 66px;
+}
+
+.products__container:last-of-type {
+    margin-right: 0;
+}
