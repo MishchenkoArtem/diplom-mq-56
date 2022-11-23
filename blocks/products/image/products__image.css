@@ -1,3 +1,11 @@
 .products__image {
+    max-width: 300px;
+    width: 100%;
+
+    object-fit: cover;
+    box-sizing: border-box;
+
     margin-bottom: -29px;
+    padding-left: 13px;
+    padding-right: 13px;
 }
