@@ -1,0 +1,8 @@
+.products__box {
+    border: solid 4px #d3c59d;
+    box-sizing: border-box;
+
+    padding-top: 53px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
