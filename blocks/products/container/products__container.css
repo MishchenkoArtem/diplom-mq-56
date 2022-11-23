@@ -11,3 +11,18 @@
 .products__container:last-of-type {
     margin-right: 0;
 }
+
+@media (min-width: 641px) and (max-width: 1200px) {
+    .products__container {
+        width: calc(50% - 10px);
+        margin-right: 20px;
+    }
+
+    .products__container:nth-of-type(even) {
+        margin-right: 0;
+    }
+
+    .products__container:nth-child(2n + 3) {
+        margin-top: 28px;
+    }
+}
