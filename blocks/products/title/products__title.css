@@ -22,3 +22,10 @@
 
     background-color: #e1d9bd;
 }
+
+@media (max-width: 640px) {
+    .products__title {
+        margin-top: 44px;
+        margin-bottom: 66px;
+    }
+}
