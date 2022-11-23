@@ -5,6 +5,17 @@
 
 @media (min-width: 641px) and (max-width: 1200px) {
     .products__row {
+        max-width: 768px;
         flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 640px) {
+    .products__row {
+        max-width: 360px;
+        flex-direction: column;
+
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
