@@ -1,3 +1,24 @@
 .products__title {
-    
+    font-size: 1.25rem;
+    line-height: 1.9rem;
+
+    color: #0f0d0e;
+    text-transform: uppercase;
+
+    margin-top: 0;
+    margin-bottom: 46px;
+
+    position: relative;
+}
+
+.products__title::before {
+    content: "";
+    position: absolute;
+    top: 40px;
+    left: 50px;
+
+    width: 66px;
+    height: 3px;
+
+    background-color: #e1d9bd;
 }
