@@ -1,0 +1,21 @@
+.products__button {
+    font-size: 0.9rem;;
+    line-height: 2.5rem;
+
+    color: #fff;
+    text-transform: uppercase;
+
+    border: none;
+    cursor: pointer;
+
+    background-color: #b59f5b;
+
+    padding-top: 6px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-bottom: 6px;
+}
+
+.products__button:hover {
+    background-color: #323232;
+}
