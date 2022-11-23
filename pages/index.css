@@ -76,6 +76,20 @@
 
 @import url(../blocks/visually-hidden/visually-hidden.css);
 
+@import url(../blocks/products/products.css);
+@import url(../blocks/products/row/products__row.css);
+@import url(../blocks/products/container/products__container.css);
+@import url(../blocks/products/image/products__image.css);
+@import url(../blocks/products/box/products__box.css);
+@import url(../blocks/products/heading/products__heading.css);
+@import url(../blocks/products/text/products__text.css);
+@import url(../blocks/products/text-link/products__text-link.css);
+@import url(../blocks/products/wrapper/products__wrapper.css);
+@import url(../blocks/products/column-price/products__column-price.css);
+@import url(../blocks/products/price/products__price.css);
+@import url(../blocks/products/price/size_small/products__price_size_small.css);
+@import url(../blocks/products/button/products__button.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/list/footer__list.css);
 @import url(../blocks/footer/item/footer__item.css);
