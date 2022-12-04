@@ -14,8 +14,15 @@
 
 @media (max-width: 640px) {
   .posts__input-search {
-    width: 100%;
-    max-width: 284px;
+    width: 285px;
+
+    margin-top: 60px;
+  }
+}
+
+@media (max-width: 320px) {
+  .posts__input-search {
+    width: 245px;
 
     margin-top: 60px;
   }
