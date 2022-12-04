@@ -4,8 +4,7 @@
 
 @import url(../blocks/main/main.css);
 @import url(../blocks/main/wrapper/main__wrapper.css);
-
-@import url(../blocks/section/section.css);
+@import url(../blocks/main/container/main__container.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/container/header__container.css);
