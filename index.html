@@ -586,5 +586,34 @@
                 </a>
             </div>
         </footer>
+        <div class="popup">
+            <div class="popup__container">
+                <h2 class="popup__title">Ваш ФИДБЕк</h2>
+                <form name="popup-form" class="popup__form">
+                    <fieldset class="popup__fieldset">
+                        <label id="site-visit">
+                            <span class="popup__text">Как часто вы заходите на сайт?</span>
+                            <select name="site-visit" id="site-visit" required class="popup__select-visit">
+                                <option value="every-day" class="popup__option-text">Почти каждый день</option>
+                                <option value="several-days" class="popup__option-text">Раз в несколько дней</option>
+                                <option value="few-weeks" class="popup__option-text">Раз в несколько недель</option>
+                                <option value="once-year" class="popup__option-text">Несколько раз в год</option>
+                            </select>
+                        </label>
+                        <span class="popup__text">Вы подписаны на e-mail рассылку?</span>
+                        <div class="popup__box">
+                            <label id="site-visit">
+                                <input type="radio" name="radio">
+                                <span class="popup__text popup__text_radio-img">Да</span>
+                            </label>
+                            <label id="site-visit">
+                                <input type="radio" name="radio">
+                                <span class="popup__text popup__text_radio-img">Нет</span>
+                            </label>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
     </body>
 </html>
