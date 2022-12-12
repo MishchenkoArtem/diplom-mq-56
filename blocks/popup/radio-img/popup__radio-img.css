@@ -1,7 +1,7 @@
 .popup__radio-img {
     display: inline-block;
     background-image: url(../../../images/svg/form-empty-circle.svg);
-    background-position: center top;
+    background-position: center;
     background-size: cover;
 
     height: 20px;
