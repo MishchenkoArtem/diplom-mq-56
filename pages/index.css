@@ -111,3 +111,5 @@
 @import url(../blocks/popup/box/popup__box.css);
 @import url(../blocks/popup/radio/popup__radio.css);
 @import url(../blocks/popup/radio-img/popup__radio-img.css);
+@import url(../blocks/popup/block-text/popup__block-text.css);
+@import url(../blocks/popup/button/popup__button.css);

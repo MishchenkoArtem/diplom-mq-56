@@ -7,5 +7,8 @@
 
     color: #000;
 
-    margin: 25px 0 0;
+    margin: 17px 10px 0 3px;
+
+    position: relative;
+    bottom: 5px;
 }

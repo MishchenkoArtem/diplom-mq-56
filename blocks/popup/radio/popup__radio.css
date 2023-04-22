@@ -1,3 +1,7 @@
 .popup__radio {
     display: none;
 }
+
+.popup__radio:checked + .popup__radio-img {
+  background-image: url(../../../images/svg/form-circle.svg);
+}
